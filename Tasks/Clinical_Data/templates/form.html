@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sample Form</title>
+</head>
+<body>
+<form method="post">
+    <input type="number" name="num" />
+    <input type="submit">
+</form>
+
+<!-- <p>{{ result }}</p> -->
+
+
+    <table border="1">
+        <tr>
+            <th>Clinic_Id</th>
+            <th>Clinic_name</th>
+            <th>Doctor_name</th>
+            <th>Longitude</th>
+            <th>Latitude</th>
+            <th>Postal_Code</th>
+            <th>Phone_Number</th>
+            <th>Email_Id</th>
+        </tr>
+        {% for res in result %}
+        <tr>
+
+            <td>{{res.Clinic_ID}}</td>
+            <td>{{res.Clinic_name}}</td>
+            <td>{{res.Doctor_name}}</td>
+            <td>{{res.longitute}}</td>
+            <td>{{res.Latitude}}</td>
+            <td>{{res.Postal_Code}}</td>
+            <td>{{res.Phone_Number}}</td>
+            <td>{{res.email_ID}}</td>
+        
+        </tr>
+        {% endfor %}
+    
+</table>
+
+
+</body>
+</html>
+
+

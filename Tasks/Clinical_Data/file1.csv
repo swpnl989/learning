@@ -1,0 +1,10 @@
+Clinic_ID,Clinic_name,Doctor_name,longitute,Latitude,Postal_Code,Phone_Number,email_ID
+101,Lilavati,Dr.Mehta,72.877655,19.075983,80000,9.18E+11,lilavati@gmail.com
+102,Wokhartks,Dr. Dubey,79.088158,21.1458,85000,0,wokhartks.gmail
+103,OrangeCity,Dr. Shrama,73.856743,18.52043,90000,-9000890087,orangeCity@
+104,Vedanta,Dr. Khan,77.102493,28.70406,95000,9571298701,vedanta@
+105,Sasun,Dr. Kohli,78.298039,30.37894,75000,(95) 7789816378,
+106,GMC,Dr. Batra,75.876523,20.783709,75087,8767342,gmc@gmail.com
+107,SSM,DR.Jay,78.546378,21.65734,11054,9860496013,abc@yahho.com
+107,SSM,DR.Jay,78.546378,21.65734,11054,9860496013,abc@yahho.com
+108,ABC,Dr.ABC,79.45678,20.54321,8000,9860496019,abc@abc.com

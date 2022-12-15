@@ -1,0 +1,4 @@
+name,age,address,hobbies,married
+jk,26,Pune,"['news', 'Sports']",True
+jk,26,Pune,"['news', 'Sports']",True
+sk,27,Pune,,True
